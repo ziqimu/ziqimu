@@ -41,7 +41,7 @@ I am a senior at the University of Rochester. <img src="https://media.giphy.com/
   
 - :seedling: Exploring Python/ R/ SQL.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read scientific journals and explore data analysis reports.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziqi-mu/)
 
