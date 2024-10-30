@@ -67,4 +67,5 @@ I am a senior at the University of Rochester. <img src="https://media.giphy.com/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ziqimu&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziqimu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
